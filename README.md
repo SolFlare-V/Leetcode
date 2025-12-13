@@ -5,15 +5,18 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SolFlare-V/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SolFlare-V/Leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SolFlare-V/Leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
