@@ -8,6 +8,7 @@
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Array
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/SolFlare-V/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Greedy
+|  |
+| ------- |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 <!---LeetCode Topics End-->
