@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SolFlare-V/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/SolFlare-V/Leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SolFlare-V/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/SolFlare-V/Leetcode/tree/master/0058-length-of-last-word) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SolFlare-V/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/SolFlare-V/Leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SolFlare-V/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
