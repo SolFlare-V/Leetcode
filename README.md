@@ -31,6 +31,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SolFlare-V/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/SolFlare-V/Leetcode/tree/master/0058-length-of-last-word) |
+| [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SolFlare-V/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SolFlare-V/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
