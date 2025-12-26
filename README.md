@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/SolFlare-V/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/SolFlare-V/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SolFlare-V/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SolFlare-V/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/SolFlare-V/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SolFlare-V/Leetcode/tree/master/0125-valid-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
@@ -81,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -95,6 +98,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Tree
 |  |
