@@ -26,6 +26,7 @@
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/SolFlare-V/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SolFlare-V/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
 | ------- |
