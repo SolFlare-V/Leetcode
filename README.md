@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SolFlare-V/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SolFlare-V/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/SolFlare-V/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SolFlare-V/Leetcode/tree/master/0035-search-insert-position) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SolFlare-V/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
