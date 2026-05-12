@@ -9,6 +9,7 @@
 | [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SolFlare-V/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SolFlare-V/Leetcode/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/SolFlare-V/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -51,6 +52,7 @@
 | [0058-length-of-last-word](https://github.com/SolFlare-V/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SolFlare-V/Leetcode/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/SolFlare-V/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
