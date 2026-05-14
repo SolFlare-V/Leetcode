@@ -35,6 +35,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/SolFlare-V/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/SolFlare-V/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SolFlare-V/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SolFlare-V/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1929-concatenation-of-array](https://github.com/SolFlare-V/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Tree
 |  |
 | ------- |
