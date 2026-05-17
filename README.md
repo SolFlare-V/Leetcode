@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/SolFlare-V/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SolFlare-V/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SolFlare-V/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -47,6 +48,7 @@
 | [0088-merge-sorted-array](https://github.com/SolFlare-V/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SolFlare-V/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
+| [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SolFlare-V/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
