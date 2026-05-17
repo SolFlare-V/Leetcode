@@ -12,6 +12,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SolFlare-V/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -32,6 +33,7 @@
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SolFlare-V/Leetcode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
