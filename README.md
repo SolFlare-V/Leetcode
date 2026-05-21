@@ -11,6 +11,7 @@
 | [0070-climbing-stairs](https://github.com/SolFlare-V/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/SolFlare-V/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/SolFlare-V/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SolFlare-V/Leetcode/tree/master/0258-add-digits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/SolFlare-V/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Tree
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SolFlare-V/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
