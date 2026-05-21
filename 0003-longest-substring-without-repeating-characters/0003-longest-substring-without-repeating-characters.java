@@ -7,8 +7,8 @@ class Solution {
         int maxLen = 0; 
         
         while(right<n){
-            char chleft= s.charAt(left);
-            char chright = s.charAt(right);
+            Character chleft= s.charAt(left);
+            Character chright = s.charAt(right);
             if(!set.contains(chright)){
                 set.add(chright);
                 maxLen = Math.max(maxLen,right-left+1);
