@@ -165,6 +165,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SolFlare-V/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -172,6 +173,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SolFlare-V/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Trie
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -232,4 +235,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SolFlare-V/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
