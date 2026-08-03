@@ -1,0 +1,1 @@
+class Solution { public int[] getConcatenation(int[] nums) { int l = nums.length * 2; int[] a = new int[l]; for( int i =0; i<l/2;i++){ a[i] = nums[i]; } for( int i =0; i<l/2;i++){ a[l/2+i] = nums[i]; } return a; } }
