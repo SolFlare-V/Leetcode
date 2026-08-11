@@ -50,6 +50,7 @@
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/SolFlare-V/Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/SolFlare-V/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
@@ -277,8 +278,10 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SolFlare-V/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SolFlare-V/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
