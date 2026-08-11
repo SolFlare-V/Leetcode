@@ -48,6 +48,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SolFlare-V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
@@ -102,6 +103,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SolFlare-V/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -112,12 +114,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/SolFlare-V/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/SolFlare-V/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -126,6 +130,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -135,6 +140,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -145,6 +151,7 @@
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SolFlare-V/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -292,4 +299,5 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
