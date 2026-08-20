@@ -319,4 +319,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SolFlare-V/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
