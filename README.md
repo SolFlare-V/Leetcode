@@ -252,6 +252,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SolFlare-V/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SolFlare-V/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Brainteaser
 |  |
@@ -338,4 +339,8 @@
 | [0610-triangle-judgement](https://github.com/SolFlare-V/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/SolFlare-V/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/SolFlare-V/Leetcode/tree/master/0620-not-boring-movies) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SolFlare-V/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
