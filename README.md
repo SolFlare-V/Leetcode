@@ -353,6 +353,7 @@
 | [1075-project-employees-i](https://github.com/SolFlare-V/Leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/SolFlare-V/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/SolFlare-V/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/SolFlare-V/Leetcode/tree/master/1148-article-views-i) |
 ## Recursion
 |  |
 | ------- |
