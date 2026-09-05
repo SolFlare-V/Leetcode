@@ -39,6 +39,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SolFlare-V/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SolFlare-V/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SolFlare-V/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/SolFlare-V/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SolFlare-V/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SolFlare-V/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SolFlare-V/Leetcode/tree/master/0136-single-number) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SolFlare-V/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SolFlare-V/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SolFlare-V/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -330,6 +332,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SolFlare-V/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Search Tree
 |  |
