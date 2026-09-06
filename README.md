@@ -42,6 +42,7 @@
 | [0066-plus-one](https://github.com/SolFlare-V/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SolFlare-V/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SolFlare-V/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SolFlare-V/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SolFlare-V/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SolFlare-V/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SolFlare-V/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +223,7 @@
 | [0101-symmetric-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SolFlare-V/Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -233,6 +236,7 @@
 | [0101-symmetric-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SolFlare-V/Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -342,6 +346,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Database
 |  |
 | ------- |
