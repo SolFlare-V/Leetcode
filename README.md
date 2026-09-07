@@ -73,6 +73,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/SolFlare-V/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SolFlare-V/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2942-find-words-containing-character](https://github.com/SolFlare-V/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SolFlare-V/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SolFlare-V/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -138,6 +139,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [3731-find-missing-elements](https://github.com/SolFlare-V/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -146,6 +148,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/SolFlare-V/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [3925-concatenate-array-with-reverse](https://github.com/SolFlare-V/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Tree
 |  |
@@ -274,6 +278,7 @@
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SolFlare-V/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/SolFlare-V/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SolFlare-V/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
