@@ -337,6 +337,7 @@
 | [0207-course-schedule](https://github.com/SolFlare-V/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SolFlare-V/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -347,6 +348,7 @@
 | [0207-course-schedule](https://github.com/SolFlare-V/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SolFlare-V/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
 ## Queue
 |  |
 | ------- |
@@ -446,6 +448,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SolFlare-V/Leetcode/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SolFlare-V/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
@@ -463,4 +466,8 @@
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SolFlare-V/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
