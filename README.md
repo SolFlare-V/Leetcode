@@ -75,6 +75,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SolFlare-V/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+| [1649-create-sorted-array-through-instructions](https://github.com/SolFlare-V/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1672-richest-customer-wealth](https://github.com/SolFlare-V/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SolFlare-V/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -139,6 +140,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/SolFlare-V/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
+| [1649-create-sorted-array-through-instructions](https://github.com/SolFlare-V/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [0875-koko-eating-bananas](https://github.com/SolFlare-V/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1649-create-sorted-array-through-instructions](https://github.com/SolFlare-V/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -488,12 +492,14 @@
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
+| [1649-create-sorted-array-through-instructions](https://github.com/SolFlare-V/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
+| [1649-create-sorted-array-through-instructions](https://github.com/SolFlare-V/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -502,6 +508,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1649-create-sorted-array-through-instructions](https://github.com/SolFlare-V/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Treap
 |  |
 | ------- |
