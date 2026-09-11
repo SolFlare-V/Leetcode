@@ -73,6 +73,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SolFlare-V/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1672-richest-customer-wealth](https://github.com/SolFlare-V/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/SolFlare-V/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -309,6 +310,7 @@
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/SolFlare-V/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Memoization
 |  |
@@ -485,11 +487,13 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
 ## Sqrt Decomposition
 |  |
 | ------- |
