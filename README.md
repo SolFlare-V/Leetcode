@@ -61,6 +61,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -134,6 +135,7 @@
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -161,6 +163,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -207,6 +210,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SolFlare-V/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SolFlare-V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SolFlare-V/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -480,12 +484,22 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sqrt Decomposition
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
