@@ -60,6 +60,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SolFlare-V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -132,6 +133,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SolFlare-V/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -470,4 +472,20 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/SolFlare-V/Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
