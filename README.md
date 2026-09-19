@@ -131,6 +131,7 @@
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/SolFlare-V/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2942-find-words-containing-character](https://github.com/SolFlare-V/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/SolFlare-V/Leetcode/tree/master/3210-find-the-encrypted-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SolFlare-V/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3798-largest-even-number](https://github.com/SolFlare-V/Leetcode/tree/master/3798-largest-even-number) |
 ## Divide and Conquer
 |  |
@@ -233,6 +234,7 @@
 | [0371-sum-of-two-integers](https://github.com/SolFlare-V/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SolFlare-V/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -404,6 +406,7 @@
 | [0077-combinations](https://github.com/SolFlare-V/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SolFlare-V/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SolFlare-V/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search Tree
 |  |
 | ------- |
