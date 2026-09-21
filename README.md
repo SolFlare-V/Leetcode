@@ -15,6 +15,7 @@
 | [0258-add-digits](https://github.com/SolFlare-V/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SolFlare-V/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/SolFlare-V/Leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -469,6 +470,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/SolFlare-V/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SolFlare-V/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SolFlare-V/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/SolFlare-V/Leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
