@@ -105,6 +105,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SolFlare-V/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SolFlare-V/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
@@ -123,6 +124,7 @@
 | [0344-reverse-string](https://github.com/SolFlare-V/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -325,6 +327,7 @@
 | [0120-triangle](https://github.com/SolFlare-V/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SolFlare-V/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SolFlare-V/Leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/1137-n-th-tribonacci-number) |
