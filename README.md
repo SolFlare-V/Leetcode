@@ -51,6 +51,7 @@
 | [0078-subsets](https://github.com/SolFlare-V/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SolFlare-V/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/SolFlare-V/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SolFlare-V/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SolFlare-V/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -342,6 +343,7 @@
 | [0070-climbing-stairs](https://github.com/SolFlare-V/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SolFlare-V/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0118-pascals-triangle](https://github.com/SolFlare-V/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SolFlare-V/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SolFlare-V/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
