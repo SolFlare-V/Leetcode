@@ -19,6 +19,7 @@
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -81,6 +82,7 @@
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SolFlare-V/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SolFlare-V/Leetcode/tree/master/0258-add-digits) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/SolFlare-V/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
