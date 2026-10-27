@@ -250,6 +250,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SolFlare-V/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SolFlare-V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SolFlare-V/Leetcode/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SolFlare-V/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -600,4 +601,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SolFlare-V/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
