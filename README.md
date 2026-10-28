@@ -104,6 +104,7 @@
 | [3169-count-days-without-meetings](https://github.com/SolFlare-V/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SolFlare-V/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SolFlare-V/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/SolFlare-V/Leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/SolFlare-V/Leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SolFlare-V/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
