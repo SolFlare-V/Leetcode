@@ -126,6 +126,7 @@
 | [0344-reverse-string](https://github.com/SolFlare-V/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SolFlare-V/Leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## String
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [2942-find-words-containing-character](https://github.com/SolFlare-V/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/SolFlare-V/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SolFlare-V/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SolFlare-V/Leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3798-largest-even-number](https://github.com/SolFlare-V/Leetcode/tree/master/3798-largest-even-number) |
 ## Divide and Conquer
 |  |
@@ -385,6 +387,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SolFlare-V/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1395-count-number-of-teams](https://github.com/SolFlare-V/Leetcode/tree/master/1395-count-number-of-teams) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/SolFlare-V/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SolFlare-V/Leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Memoization
 |  |
 | ------- |
@@ -606,4 +609,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SolFlare-V/Leetcode/tree/master/0278-first-bad-version) |
+## Enumeration
+|  |
+| ------- |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SolFlare-V/Leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 <!---LeetCode Topics End-->
