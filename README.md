@@ -145,6 +145,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/1143-longest-common-subsequence) |
