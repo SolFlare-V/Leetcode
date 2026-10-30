@@ -79,6 +79,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0393-utf-8-validation](https://github.com/SolFlare-V/Leetcode/tree/master/0393-utf-8-validation) |
 | [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/SolFlare-V/Leetcode/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
@@ -211,6 +212,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/SolFlare-V/Leetcode/tree/master/0436-find-right-interval) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SolFlare-V/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -293,6 +295,7 @@
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/SolFlare-V/Leetcode/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0436-find-right-interval](https://github.com/SolFlare-V/Leetcode/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SolFlare-V/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
