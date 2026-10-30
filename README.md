@@ -19,6 +19,7 @@
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/SolFlare-V/Leetcode/tree/master/0991-broken-calculator) |
+| [1006-clumsy-factorial](https://github.com/SolFlare-V/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1137-n-th-tribonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/SolFlare-V/Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
@@ -351,6 +352,7 @@
 | [0067-add-binary](https://github.com/SolFlare-V/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SolFlare-V/Leetcode/tree/master/0258-add-digits) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/SolFlare-V/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1006-clumsy-factorial](https://github.com/SolFlare-V/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/SolFlare-V/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -529,6 +531,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SolFlare-V/Leetcode/tree/master/0739-daily-temperatures) |
+| [1006-clumsy-factorial](https://github.com/SolFlare-V/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SolFlare-V/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
