@@ -106,6 +106,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/SolFlare-V/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/SolFlare-V/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/SolFlare-V/Leetcode/tree/master/2418-sort-the-people) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/SolFlare-V/Leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SolFlare-V/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
