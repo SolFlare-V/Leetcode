@@ -27,6 +27,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/SolFlare-V/Leetcode/tree/master/2469-convert-the-temperature) |
+| [2761-prime-pairs-with-target-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SolFlare-V/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SolFlare-V/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SolFlare-V/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -101,6 +102,7 @@
 | [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SolFlare-V/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2761-prime-pairs-with-target-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2942-find-words-containing-character](https://github.com/SolFlare-V/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3169-count-days-without-meetings](https://github.com/SolFlare-V/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SolFlare-V/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -451,6 +453,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SolFlare-V/Leetcode/tree/master/0258-add-digits) |
+| [2761-prime-pairs-with-target-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SolFlare-V/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
@@ -615,5 +618,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SolFlare-V/Leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 <!---LeetCode Topics End-->
