@@ -94,6 +94,7 @@
 | [0986-interval-list-intersections](https://github.com/SolFlare-V/Leetcode/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SolFlare-V/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/SolFlare-V/Leetcode/tree/master/0994-rotting-oranges) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/SolFlare-V/Leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -340,6 +341,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0991-broken-calculator](https://github.com/SolFlare-V/Leetcode/tree/master/0991-broken-calculator) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/SolFlare-V/Leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SolFlare-V/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
