@@ -99,6 +99,7 @@
 | [1929-concatenation-of-array](https://github.com/SolFlare-V/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SolFlare-V/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SolFlare-V/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/SolFlare-V/Leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SolFlare-V/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -298,6 +299,7 @@
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SolFlare-V/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SolFlare-V/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/SolFlare-V/Leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/SolFlare-V/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Simulation
 |  |
