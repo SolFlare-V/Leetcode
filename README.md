@@ -27,6 +27,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/SolFlare-V/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2427-number-of-common-factors](https://github.com/SolFlare-V/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/SolFlare-V/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SolFlare-V/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -475,6 +476,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SolFlare-V/Leetcode/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/SolFlare-V/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SolFlare-V/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
@@ -642,10 +644,19 @@
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/SolFlare-V/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SolFlare-V/Leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/SolFlare-V/Leetcode/tree/master/2762-continuous-subarrays) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/SolFlare-V/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/SolFlare-V/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
