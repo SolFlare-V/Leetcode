@@ -168,6 +168,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/SolFlare-V/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/SolFlare-V/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/SolFlare-V/Leetcode/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SolFlare-V/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/SolFlare-V/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2942-find-words-containing-character](https://github.com/SolFlare-V/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/SolFlare-V/Leetcode/tree/master/3210-find-the-encrypted-string) |
@@ -238,6 +239,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [2404-most-frequent-even-element](https://github.com/SolFlare-V/Leetcode/tree/master/2404-most-frequent-even-element) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SolFlare-V/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/SolFlare-V/Leetcode/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/SolFlare-V/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/SolFlare-V/Leetcode/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SolFlare-V/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [3731-find-missing-elements](https://github.com/SolFlare-V/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
