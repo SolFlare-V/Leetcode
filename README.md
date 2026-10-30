@@ -78,6 +78,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0393-utf-8-validation](https://github.com/SolFlare-V/Leetcode/tree/master/0393-utf-8-validation) |
+| [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
@@ -209,6 +210,7 @@
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SolFlare-V/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SolFlare-V/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -324,6 +326,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SolFlare-V/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SolFlare-V/Leetcode/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -417,6 +420,7 @@
 | [0152-maximum-product-subarray](https://github.com/SolFlare-V/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/SolFlare-V/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/1137-n-th-tribonacci-number) |
