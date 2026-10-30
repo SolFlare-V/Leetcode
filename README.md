@@ -20,6 +20,7 @@
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/SolFlare-V/Leetcode/tree/master/0991-broken-calculator) |
 | [1006-clumsy-factorial](https://github.com/SolFlare-V/Leetcode/tree/master/1006-clumsy-factorial) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/SolFlare-V/Leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
@@ -281,6 +282,7 @@
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1915-number-of-wonderful-substrings](https://github.com/SolFlare-V/Leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/SolFlare-V/Leetcode/tree/master/2399-check-distances-between-same-letters) |
@@ -707,4 +709,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/SolFlare-V/Leetcode/tree/master/0986-interval-list-intersections) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
