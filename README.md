@@ -100,6 +100,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SolFlare-V/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SolFlare-V/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/SolFlare-V/Leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SolFlare-V/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -245,6 +246,7 @@
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1915-number-of-wonderful-substrings](https://github.com/SolFlare-V/Leetcode/tree/master/1915-number-of-wonderful-substrings) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [3731-find-missing-elements](https://github.com/SolFlare-V/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
