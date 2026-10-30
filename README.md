@@ -26,6 +26,7 @@
 | [2139-minimum-moves-to-reach-target-score](https://github.com/SolFlare-V/Leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/SolFlare-V/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/SolFlare-V/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2761-prime-pairs-with-target-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SolFlare-V/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -164,6 +165,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/SolFlare-V/Leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SolFlare-V/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2399-check-distances-between-same-letters](https://github.com/SolFlare-V/Leetcode/tree/master/2399-check-distances-between-same-letters) |
+| [2409-count-days-spent-together](https://github.com/SolFlare-V/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/SolFlare-V/Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2942-find-words-containing-character](https://github.com/SolFlare-V/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/SolFlare-V/Leetcode/tree/master/3210-find-the-encrypted-string) |
