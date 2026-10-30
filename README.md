@@ -169,6 +169,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1143-longest-common-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SolFlare-V/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -370,6 +371,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SolFlare-V/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2236-root-equals-sum-of-children](https://github.com/SolFlare-V/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -389,6 +391,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SolFlare-V/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SolFlare-V/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2236-root-equals-sum-of-children](https://github.com/SolFlare-V/Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Trie
 |  |
@@ -474,6 +477,7 @@
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SolFlare-V/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
@@ -535,6 +539,7 @@
 | [0077-combinations](https://github.com/SolFlare-V/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SolFlare-V/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/SolFlare-V/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search Tree
 |  |
