@@ -92,6 +92,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/SolFlare-V/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0986-interval-list-intersections](https://github.com/SolFlare-V/Leetcode/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SolFlare-V/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/SolFlare-V/Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -409,6 +410,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/SolFlare-V/Leetcode/tree/master/0994-rotting-oranges) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SolFlare-V/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -496,6 +498,7 @@
 | [0226-invert-binary-tree](https://github.com/SolFlare-V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/SolFlare-V/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/SolFlare-V/Leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Queue
 |  |
