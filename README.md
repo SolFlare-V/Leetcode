@@ -96,6 +96,7 @@
 | [0994-rotting-oranges](https://github.com/SolFlare-V/Leetcode/tree/master/0994-rotting-oranges) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/SolFlare-V/Leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1014-best-sightseeing-pair](https://github.com/SolFlare-V/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -443,6 +444,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
+| [1014-best-sightseeing-pair](https://github.com/SolFlare-V/Leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SolFlare-V/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
