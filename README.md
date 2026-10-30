@@ -178,6 +178,7 @@
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SolFlare-V/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/SolFlare-V/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1143-longest-common-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SolFlare-V/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -283,6 +284,7 @@
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/SolFlare-V/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1915-number-of-wonderful-substrings](https://github.com/SolFlare-V/Leetcode/tree/master/1915-number-of-wonderful-substrings) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/SolFlare-V/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/SolFlare-V/Leetcode/tree/master/2399-check-distances-between-same-letters) |
@@ -324,6 +326,7 @@
 | [0371-sum-of-two-integers](https://github.com/SolFlare-V/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/SolFlare-V/Leetcode/tree/master/0393-utf-8-validation) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/SolFlare-V/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SolFlare-V/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SolFlare-V/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1915-number-of-wonderful-substrings](https://github.com/SolFlare-V/Leetcode/tree/master/1915-number-of-wonderful-substrings) |
@@ -526,6 +529,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SolFlare-V/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SolFlare-V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/SolFlare-V/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SolFlare-V/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SolFlare-V/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2762-continuous-subarrays](https://github.com/SolFlare-V/Leetcode/tree/master/2762-continuous-subarrays) |
