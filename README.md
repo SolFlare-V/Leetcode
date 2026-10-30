@@ -107,6 +107,7 @@
 | [2404-most-frequent-even-element](https://github.com/SolFlare-V/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/SolFlare-V/Leetcode/tree/master/2418-sort-the-people) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/SolFlare-V/Leetcode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SolFlare-V/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SolFlare-V/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -138,6 +139,7 @@
 | [0344-reverse-string](https://github.com/SolFlare-V/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SolFlare-V/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SolFlare-V/Leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## String
 |  |
@@ -207,6 +209,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SolFlare-V/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/SolFlare-V/Leetcode/tree/master/2418-sort-the-people) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SolFlare-V/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [3169-count-days-without-meetings](https://github.com/SolFlare-V/Leetcode/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/SolFlare-V/Leetcode/tree/master/3731-find-missing-elements) |
@@ -265,6 +268,7 @@
 | [2404-most-frequent-even-element](https://github.com/SolFlare-V/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/SolFlare-V/Leetcode/tree/master/2418-sort-the-people) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SolFlare-V/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SolFlare-V/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [3731-find-missing-elements](https://github.com/SolFlare-V/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
