@@ -89,6 +89,7 @@
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/SolFlare-V/Leetcode/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [0986-interval-list-intersections](https://github.com/SolFlare-V/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -143,6 +144,7 @@
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SolFlare-V/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
+| [0986-interval-list-intersections](https://github.com/SolFlare-V/Leetcode/tree/master/0986-interval-list-intersections) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SolFlare-V/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/SolFlare-V/Leetcode/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -680,4 +682,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/SolFlare-V/Leetcode/tree/master/2427-number-of-common-factors) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/SolFlare-V/Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
