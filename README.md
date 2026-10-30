@@ -99,6 +99,7 @@
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/SolFlare-V/Leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1014-best-sightseeing-pair](https://github.com/SolFlare-V/Leetcode/tree/master/1014-best-sightseeing-pair) |
+| [1020-number-of-enclaves](https://github.com/SolFlare-V/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -422,6 +423,7 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/SolFlare-V/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SolFlare-V/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SolFlare-V/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -496,6 +498,7 @@
 | [0404-sum-of-left-leaves](https://github.com/SolFlare-V/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1020-number-of-enclaves](https://github.com/SolFlare-V/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
@@ -511,6 +514,7 @@
 | [0404-sum-of-left-leaves](https://github.com/SolFlare-V/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/SolFlare-V/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/SolFlare-V/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Queue
 |  |
@@ -650,6 +654,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/SolFlare-V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SolFlare-V/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1020-number-of-enclaves](https://github.com/SolFlare-V/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/SolFlare-V/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Design
 |  |
