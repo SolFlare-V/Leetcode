@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/SolFlare-V/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/SolFlare-V/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/SolFlare-V/Leetcode/tree/master/0390-elimination-game) |
+| [0441-arranging-coins](https://github.com/SolFlare-V/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/SolFlare-V/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/SolFlare-V/Leetcode/tree/master/0991-broken-calculator) |
@@ -316,6 +317,7 @@
 | [0278-first-bad-version](https://github.com/SolFlare-V/Leetcode/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/SolFlare-V/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/SolFlare-V/Leetcode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/SolFlare-V/Leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SolFlare-V/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
