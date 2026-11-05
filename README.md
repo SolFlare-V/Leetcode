@@ -124,6 +124,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SolFlare-V/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/SolFlare-V/Leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2451-odd-string-difference](https://github.com/SolFlare-V/Leetcode/tree/master/2451-odd-string-difference) |
+| [2594-minimum-time-to-repair-cars](https://github.com/SolFlare-V/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [2679-sum-in-a-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/2679-sum-in-a-matrix) |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/SolFlare-V/Leetcode/tree/master/2682-find-the-losers-of-the-circular-game) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/SolFlare-V/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -320,6 +321,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SolFlare-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1649-create-sorted-array-through-instructions](https://github.com/SolFlare-V/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
+| [2594-minimum-time-to-repair-cars](https://github.com/SolFlare-V/Leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Bit Manipulation
 |  |
 | ------- |
