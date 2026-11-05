@@ -87,6 +87,7 @@
 | [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/SolFlare-V/Leetcode/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/SolFlare-V/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
@@ -158,6 +159,7 @@
 | [0189-rotate-array](https://github.com/SolFlare-V/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/SolFlare-V/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/SolFlare-V/Leetcode/tree/master/0455-assign-cookies) |
 | [0986-interval-list-intersections](https://github.com/SolFlare-V/Leetcode/tree/master/0986-interval-list-intersections) |
 | [2396-strictly-palindromic-number](https://github.com/SolFlare-V/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SolFlare-V/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -233,6 +235,7 @@
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/SolFlare-V/Leetcode/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/SolFlare-V/Leetcode/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SolFlare-V/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SolFlare-V/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -356,6 +359,7 @@
 | [0011-container-with-most-water](https://github.com/SolFlare-V/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SolFlare-V/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/SolFlare-V/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/SolFlare-V/Leetcode/tree/master/0455-assign-cookies) |
 | [0991-broken-calculator](https://github.com/SolFlare-V/Leetcode/tree/master/0991-broken-calculator) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/SolFlare-V/Leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/SolFlare-V/Leetcode/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -731,4 +735,8 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SolFlare-V/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
