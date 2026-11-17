@@ -93,6 +93,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SolFlare-V/Leetcode/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/SolFlare-V/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0875-koko-eating-bananas](https://github.com/SolFlare-V/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/SolFlare-V/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0912-sort-an-array) |
@@ -186,6 +187,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
+| [0748-shortest-completing-word](https://github.com/SolFlare-V/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/SolFlare-V/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/SolFlare-V/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -294,6 +296,7 @@
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0748-shortest-completing-word](https://github.com/SolFlare-V/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/SolFlare-V/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
