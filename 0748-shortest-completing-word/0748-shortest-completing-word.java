@@ -4,7 +4,6 @@ class Solution {
 
         int[] required = new int[26];
 
-        // Count required letters
         for (char c : licensePlate.toCharArray()) {
             if (Character.isLetter(c)) {
                 required[Character.toLowerCase(c) - 'a']++;
@@ -17,7 +16,6 @@ class Solution {
 
             int[] count = new int[26];
 
-            // Count letters in current word
             for (char c : word.toCharArray()) {
                 count[c - 'a']++;
             }
