@@ -93,6 +93,7 @@
 | [0485-max-consecutive-ones](https://github.com/SolFlare-V/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SolFlare-V/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SolFlare-V/Leetcode/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/SolFlare-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/SolFlare-V/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/SolFlare-V/Leetcode/tree/master/0739-daily-temperatures) |
@@ -190,6 +191,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/SolFlare-V/Leetcode/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/SolFlare-V/Leetcode/tree/master/0500-keyboard-row) |
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
 | [0748-shortest-completing-word](https://github.com/SolFlare-V/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -300,6 +302,7 @@
 | [0389-find-the-difference](https://github.com/SolFlare-V/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SolFlare-V/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SolFlare-V/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/SolFlare-V/Leetcode/tree/master/0500-keyboard-row) |
 | [0748-shortest-completing-word](https://github.com/SolFlare-V/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/SolFlare-V/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SolFlare-V/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
