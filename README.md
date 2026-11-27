@@ -186,6 +186,7 @@
 | [0392-is-subsequence](https://github.com/SolFlare-V/Leetcode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/SolFlare-V/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/SolFlare-V/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/SolFlare-V/Leetcode/tree/master/0482-license-key-formatting) |
 | [0686-repeated-string-match](https://github.com/SolFlare-V/Leetcode/tree/master/0686-repeated-string-match) |
 | [0748-shortest-completing-word](https://github.com/SolFlare-V/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/SolFlare-V/Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
